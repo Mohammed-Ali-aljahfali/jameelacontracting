@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://jameela-contracting-v3.vercel.app/sitemap.xml
+Sitemap: https://jameelacontracting.com/sitemap.xml
